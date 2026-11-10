@@ -187,4 +187,4 @@ This repository serves as the official landing page for Home Assistant Taskbar M
 **Get the most recent version of Home Assistant Taskbar Menu today!**
 
 ---
-**Last updated:** 2026-11-10 09:00:31 UTC
+**Last updated:** 2026-11-10 17:24:09 UTC
